@@ -87,6 +87,7 @@ img {
     line-height: 1.50;
     letter-spacing: 0.02em;
     color:  #2E2F42;
+    padding: 24px 0;
 }
 .header-menu-link:focus {
     color: #404BBF;
@@ -97,6 +98,7 @@ img {
 .address-menu-item {
     padding: 24px 0;
 }
+
 .address-menu-link {
     font-size: 16px;
     line-height: 1.50;
