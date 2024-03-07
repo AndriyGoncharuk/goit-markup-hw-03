@@ -94,6 +94,9 @@ img {
 .header-menu-link:hover {
     color: #404BBF;
 }
+.address-menu-item {
+    padding: 24px 0;
+}
 .address-menu-link {
     font-size: 16px;
     line-height: 1.50;
